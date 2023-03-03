@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Sales-and-operations-planning-repository|This repository simulates a sales and operations planning using the zero-stock level strategy|https://github.com/Aliyyah22/sales-and-operations-planning-repository|
+| 2 |  Linkedin-analysis|This repository shows how I analysed my linkedIn data using PowerBI|https://github.com/Aliyyah22/linkedin-analysis|
+| 3 |  Titanic-analysis| This repository shows the basic part of using python to analyse a data file| https://github.com/Aliyyah22/titanic-analysis|
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
